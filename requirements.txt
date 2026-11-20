@@ -5,3 +5,4 @@ ipykernel
 python-dotenv
 langchain_groq
 langchain_tavily
+langchain_community
